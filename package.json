@@ -1,1 +1,29 @@
-{}
+{
+  "dependencies": {
+    "auth0": "^2.36.2",
+    "axios": "^0.22.0",
+    "dotenv": "^10.0.0",
+    "file-system": "^2.2.2",
+    "get": "^1.4.0",
+    "node": "^16.10.0",
+    "save": "^2.4.0"
+  },
+  "name": "backendclient",
+  "version": "1.0.0",
+  "description": "Backend Client",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mei-manzo/BackendClient.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mei-manzo/BackendClient/issues"
+  },
+  "homepage": "https://github.com/mei-manzo/BackendClient#readme"
+}
